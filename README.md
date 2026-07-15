@@ -28,16 +28,13 @@ I like turning half-finished ideas into working prototypes — and figuring out 
 
 <br/>
 
-## GitHub Stats
+## What I'm Building
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naveen-111q&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-111q&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-111q&theme=tokyo-night&hide_border=true" width="97%"/>
-
-</div>
+| Project | What it does | Built with |
+|---|---|---|
+| **[Smartphone Recommendation System](https://github.com/naveen-111q)** | Recommends smartphones using content-based filtering, KNN, rule-based logic, weighted scoring, and web-scraped data | Python · KNN · Web Scraping |
+| **[Smart Traffic Accident Prediction](https://github.com/naveen-111q)** | Predicts traffic accident likelihood using ML models trained on traffic data | Python · Pandas · Scikit-learn · Seaborn |
+| **[Online Examination Platform](https://github.com/naveen-111q)** | Full-stack platform for conducting online exams, with SQL-based backend | Node.js · React · SQL |
 
 <br/>
 
