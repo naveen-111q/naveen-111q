@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:60A5FA&height=85&section=header&text=Naveen%20Chagam&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Explorer&descAlignY=65&descSize=10" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:60A5FA&height=85&section=header&text=Venkata%20Naveen&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Explorer&descAlignY=65&descSize=10" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@ university: SRM University AP
 focus:
   - Web Development
   - Machine Learning
-status: "Always learning 🚀"
+status: "Open To Work"
 ```
 
 </td>
@@ -62,7 +62,7 @@ status: "Always learning 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:60A5FA&height=24&section=header&text=Projects&fontSize=11&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-<details open>
+<details>
 <summary><b>📱 Smartphone Recommendation System</b></summary>
 <br/>
 
@@ -109,7 +109,7 @@ Full-stack platform for conducting online exams, with a SQL-based backend.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:60A5FA&height=24&section=header&text=Connect&fontSize=11&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <p align="center">
-<a href="https://linkedin.com/in/chagamvenkatanaveen"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/ch-venkata-naveen/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> &nbsp;
 <a href="mailto:chagamvenkatanaveen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a> &nbsp;
 <a href="https://github.com/naveen-111q"><img src="https://skillicons.dev/icons?i=github&theme=light"/></a> &nbsp;
 <a href="https://leetcode.com/naveen-111q"><img src="https://skillicons.dev/icons?i=leetcode&theme=light"/></a>
